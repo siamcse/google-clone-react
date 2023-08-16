@@ -5,7 +5,7 @@ import Footer from './Footer';
 
 const Home = () => {
     return (
-        <div>
+        <div className='max-h-screen'>
             <Navbar />
             <SearchBar />
             <Footer />
